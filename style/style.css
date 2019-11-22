@@ -1,0 +1,38 @@
+html{
+    margin-top: 0px;
+}
+body{
+    background-color: #88B04B;
+    font-family: "Book Antiqua";
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+#navbar{
+    width: 100%;
+    height: 100px;
+    margin-top: 0;
+    background-color: #50692b;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+li{
+    font-size: 20px;
+    
+    text-align: center;
+    
+}
+
+#borda{
+    margin-left: 20px;
+
+}
+header{
+    display: flex;
+
+}
